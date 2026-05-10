@@ -4,5 +4,7 @@
     "vscode": {
       "extensions": ["saoudrizwan.claude-dev"]
     }
-  }
+  },
+  "postCreateCommand": "npm install modelrelay",
+  "postStartCommand": "modelrelay"
 }
