@@ -5,15 +5,17 @@
 A simple web browser game where you control a block and jump over triangle obstacles.
 
 ### How to Play
-- **Press Spacebar**: Jump over the triangles
+- **Single Press Spacebar**: Normal jump
+- **Double Press Spacebar** (within 300ms): Power jump (higher!)
 - **R**: Restart after game over
 - Avoid hitting the red triangle obstacles
 - You have only 1 life
 
 ### Features
-- Simple one-button controls
+- Double-press spacebar for variable jump heights
+- Visual feedback - player turns red during power jumps
 - Endless runner style gameplay
-- Gravity-based jumping physics
+- Simple physics with gravity
 - Score tracking
 - Game over screen
 
